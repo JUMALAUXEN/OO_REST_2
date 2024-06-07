@@ -1,3 +1,4 @@
+
 # 1 criando uma classe em python
 class Restaurante:
     nome=''

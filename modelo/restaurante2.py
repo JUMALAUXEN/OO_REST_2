@@ -1,3 +1,4 @@
+
 # 1 criando uma classe usando construtor
 
 class Restaurante:
